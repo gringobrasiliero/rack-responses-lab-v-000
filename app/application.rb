@@ -10,6 +10,5 @@ else
   resp.write "Good Evening!"
           resp.finish
 end
-end
 
 end
